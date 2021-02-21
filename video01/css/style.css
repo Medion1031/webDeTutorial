@@ -1,0 +1,17 @@
+@import "pelda.css";
+
+header {
+    width: 100%;
+    height: 400px;
+    background-color: #FF8A51;
+}
+.wrapper {
+    width: 100%;
+    height: 400px;
+    background-color: #57F15C;
+}
+#myFooter {
+    width: 100%;
+    height: 400px;
+    background-color: #517FFF;
+}
